@@ -80,14 +80,6 @@ img.bibbase_icon:hover {
     margin: 0;
 }
 
-<!-- added -->
-.bibbase_paper {
-    margin-bottom: 5px;
-    font-family: Qomolangma-Uchen Sarchung, Monlam Uni OuChan2, Microsoft Himalaya;
-    font-size: larger;
-}
-
-
 .bibbase_paper_title {
     font-weight: bold;
 }
