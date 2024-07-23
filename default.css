@@ -80,6 +80,11 @@ img.bibbase_icon:hover {
     margin: 0;
 }
 
+<!-- added -->
+.bibbase.paper {
+    font-size: larger;
+}
+
 .bibbase.well {
     margin: 20px;
     overflow-wrap: break-word;
@@ -90,7 +95,7 @@ img.bibbase_icon:hover {
 }
 
 .bibbase_paper_content {
-    font-size: larger;
+    font-size: smaller;
 }
 
 .bibbase_artifact_badge {
