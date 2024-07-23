@@ -10,7 +10,7 @@
     background-color: #70707040;
     /* mix-blend-mode: luminosity; */
     font-style: italic;
-    font-size: xx-large;
+    font-size: larger;
     /* text-shadow: 0px 0px 3px #FFFFFF; */
     border-radius: 4px 4px 4px 4px;
     -moz-border-radius: 4px 4px 4px 4px;
@@ -90,7 +90,7 @@ img.bibbase_icon:hover {
 }
 
 .bibbase_paper_content {
-    font-size: smaller;
+    font-size: larger;
 }
 
 .bibbase_artifact_badge {
